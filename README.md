@@ -5,6 +5,7 @@ I'm Nik, a hobbyist developer, spending my days learning (and usually breaking) 
 ## 🔧 Tech I Use
 - Linux (CachyOS / Arch)
 - Python, C#, SQL
+- VSCode, Visual Studio, PyCharm.
 
 ## 📚 Currently Learning
 - C#
