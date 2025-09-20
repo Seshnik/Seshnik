@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hey!
 
-<!--
-**Seshnik/Seshnik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Nik, a hobbyist developer, spending my days learning (and usually breaking) things.
 
-Here are some ideas to get you started:
+## 🔧 Tech I Use
+- Linux (CachyOS / Arch)
+- Python, C#, SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Currently Learning
+- C#
+- Godot / GDScript
+- WordPress (I really don’t like web design 😅)
+
+## 🚀 Current Projects
+- Discord Bots (4 currently maintained) — private
+- Valheim & Stardew Valley mods (same username on NexusMods for Stardew mods)
+- Multiple private experiments and side projects
+
+---
+
